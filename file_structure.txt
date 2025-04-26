@@ -1,0 +1,44 @@
+.
+├── config
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   └── settings.cpython-313.pyc
+│   └── settings.py
+├── data
+│   ├── dataset_loader.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── dataset_loader.cpython-313.pyc
+│       └── __init__.cpython-313.pyc
+├── file_structure.txt
+├── LICENSE
+├── main.py
+├── models
+│   ├── embeddings.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── embeddings.cpython-313.pyc
+│       └── __init__.cpython-313.pyc
+├── README.md
+├── redis_db
+│   ├── client.py
+│   ├── index.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── client.cpython-313.pyc
+│       ├── index.cpython-313.pyc
+│       └── __init__.cpython-313.pyc
+├── requirements.txt
+├── scripts
+│   ├── index_data.py
+│   └── __init__.py
+├── search
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   └── semantic.cpython-313.pyc
+│   └── semantic.py
+└── setup.py
+
+12 directories, 30 files
